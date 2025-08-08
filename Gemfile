@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-#PostgreSQL instead of SQLite3
-gem "pg"
 # Ruby version
 ruby "3.2.2"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
